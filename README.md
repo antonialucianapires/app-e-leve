@@ -1,4 +1,12 @@
-��# e-leveApp
+## Aplicativo e-Leve
 
+#### Desenvolvedores:
 
-https://1drv.ms/u/s!AjuDpnoMdBVKoio_qHCWfu92p2nS?e=qdMau9
+Aline Santos
+Ana Beatriz
+Antonia Luciana Pires
+Arthur Figueira
+Diego Leandro
+Gabriel Mazala
+
+Acesse nosso site: https://e-leve-new.netlify.com/
