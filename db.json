@@ -1,0 +1,28 @@
+{ 
+  "profile": [
+    {
+      "id": 1,
+      "name": "Arthur",
+      "wallet": 400
+    },
+    {
+      "id": 2,
+      "name": "Ana Beatriz",
+      "wallet": 600
+    }
+  ]
+,
+"validator":[
+{
+  "passwordShop":123456
+}
+],
+"quiz1": [
+  {
+    "id": 1,
+    "Pergunta":"Por ano, qual é a produção de e-lixo no Brasil?",
+    "Opções":["1,2 megatonelada","1,3 megatonelada","1,4 megatonelada","1,5 megatonelada"],
+    "Resposta":"1,5 megatonelada"
+  }
+] 
+}
